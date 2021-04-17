@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Fancy Horror makes alt-psych music out of Chicago, IL.
+The members performed first in 2012 during a live power hour in someone’s garage one college night
+([The Spencer Davis Group – Gimme Some Lovin’](https://www.youtube.com/watch?v=Iv6Q-v-94Lo)).
+They played just the one song together and that was it.
+Fast forward six years to the Fall of 2018 and they have regrouped musically.
+If the authors [Philip K Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) and
+[Stephen King](https://en.wikipedia.org/wiki/Stephen_King) had a band that wrote the soundtrack to a
+[Black Mirror season](https://www.netflix.com/title/70264888),
+the resulting band would be similar to that of Fancy Horror.
+They will fill you with fuzz, buzz, weird thoughts, and new words just ‘cuz.
+Sounds are best received when standing in a
+[$3 tall-boy kind of bar](https://www.colesbarchicago.com/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Close your browser tabs and get out of your norm.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I  
+We  
+Pat  
+Ajay  
+Harry  
+Taylor  
+=Fancy Horror
