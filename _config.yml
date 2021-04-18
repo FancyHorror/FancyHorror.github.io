@@ -30,6 +30,13 @@ url: "https://fancyhorror.github.io/" # the base hostname & protocol for your si
 twitter_username: fancyhorror
 github_username:  fancyhorror
 
+header_pages:
+  - about.markdown
+  - contact.markdown
+  - music.markdown
+  - upcoming-shows.markdown
+  - videos.markdown
+
 # Build settings
 theme: minima
 plugins:
