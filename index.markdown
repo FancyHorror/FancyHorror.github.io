@@ -6,4 +6,11 @@ layout: home
 # title: Home
 ---
 
-# Welcome to FaNcY hOrRoR dOt CoM !
+### _Welcome to FaNcY hOrRoR dOt CoM !_
+<p>
+<div class="juxtapose" data-startingposition="90%">
+  <img src="images/before.jpg" data-label="" alt="">
+  <img src="images/after.jpg" data-label="" alt="">
+</div>
+<script src="juxtapose/js/juxtapose.js"></script>
+</p>
