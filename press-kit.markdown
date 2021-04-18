@@ -35,5 +35,7 @@ Fancy Horror band photo: [Google Drive – Fancy suits](https://drive.google.com
 
 Fancy Horror live video (Opioid Dopioid – Gallery Cabaret Dec18): [Video – Google Drive](https://drive.google.com/open?id=1qjQCW9pX-PE4sTAVeZxNrfBPHsLd3G1y)
 
+Fancy Horror live video (Cabin in the woods): [Youtube](https://www.youtube.com/watch?v=iihuJokGiHo)
+
 #### Contact Info:
 Email: fancyhorror at gmail dot com
