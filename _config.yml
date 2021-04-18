@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 footer1: Copyright © 2021, Fancy Horror.
 footer2: Whimsical escapes, dependable rhythms.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fancyhorror.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fancyhorror
 github_username:  fancyhorror
 
