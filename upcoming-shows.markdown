@@ -3,9 +3,11 @@ layout: page
 title: Upcoming Shows
 permalink: /upcoming-shows/
 ---
+#### 2021
+- 5/?? ~ Studio b3, Chicago (Livestream via [twich](https://www.twitch.tv/fancyhorror), follow us for updates)
 
 #### 2020
-- 3/17 ~ Burlington Bar, Chicago    
+- 3/17 ~ Burlington Bar, Chicago
 
 #### 2019
 - 6/2 ~ The Owl, Chicago

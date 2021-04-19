@@ -48,6 +48,13 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  social_links:
+    twitter: fancyhorror
+    github: fancyhorror
+    facebook: poop
+    instagram: fancyhorror
+    youtube_channel: UC_HwKLgrBpiDCCk1dxop1NQ
+    twitch: fancyhorror
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
