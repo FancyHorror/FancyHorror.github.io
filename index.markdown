@@ -8,10 +8,12 @@ permalink: /
 ---
 
 ### _Welcome to FaNcY hOrRoR dOt CoM !_
-<p>
-<div class="juxtapose" data-startingposition="90%">
+{: style="text-align: center;"}
+Check out our latest  
+[BAND NEWS](/news/)
+{: style="text-align: center;"}
+<div class="juxtapose" data-startingposition="95%">
   <img src="images/before.jpg" data-label="" alt="">
   <img src="images/after.jpg" data-label="" alt="">
 </div>
 <script src="juxtapose/js/juxtapose.js"></script>
-</p>
